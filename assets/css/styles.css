@@ -1,5 +1,29 @@
 /* styles.css */
-
+h1 {
+	color: white;
+	font-size: 96px;
+	text-align: center;
+	font-family: "Alumni Sans Inline One", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
+	letter-spacing: 15px;
+	margin-top: 50px;
+}
+body {
+	background-color: black;
+	font-family: "Alumni Sans Inline One", sans-serif;
+}
+.alumni-sans-inline-one-regular {
+  font-family: "Alumni Sans Inline One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.alumni-sans-inline-one-regular-italic {
+  font-family: "Alumni Sans Inline One", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
 * {
 	font-family: Arial;
 }
